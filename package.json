@@ -1,6 +1,6 @@
 {
   "name": "keyring",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Never push your passwords and API keys to version control again.",
   "main": "keyring.js",
   "scripts": {
@@ -30,7 +30,6 @@
     "gulp-jasmine": "^0.2.0"
   },
   "dependencies": {
-    "winston": "^0.7.3",
     "minimist": "0.0.8"
   },
   "bin": { "keyring": "./bin/keyring" }
